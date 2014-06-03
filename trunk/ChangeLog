@@ -1,0 +1,7 @@
+2005-10-01 Mohammad Hafiz Ismail mypapit@gmail.com
+	* Cleans up source code
+	* Complies with ANSI C (compiles without warning)
+	* Fix copyright notice
+
+2004-04-01 Mohammad Hafiz Ismail mypapit@gmail.com
+	* First public release

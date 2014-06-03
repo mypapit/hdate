@@ -1,0 +1,2 @@
+Licensed under the GNU General Public License version 2 (or at your option), any later version.
+A copy of the license can be viewed here: http://www.gnu.org/licenses/gpl-2.0.html
